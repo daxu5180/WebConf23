@@ -2,7 +2,7 @@
 
 #### We use this temporay repo to provide supplementary material for our manuscript "Pretrained Embedding for E-commerce Machine Learning: When it Fails and Why?".
 
-#### In "Online Material.pdf", we provide the proofs to the theoretical claims we made in the paper. All the contents are properly anonymized, and please do not distribute. 
+#### In "Online material.pdf", we provide the proofs to the theoretical claims we made in the paper. All the contents are properly anonymized, and please do not distribute. 
 
 ## Running code:
 
